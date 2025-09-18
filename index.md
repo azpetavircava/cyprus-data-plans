@@ -68,3 +68,10 @@ layout: default
 
 　　希望你这趟地中海之旅，网络一路畅通，美景随时分享。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cyprus SIM 卡购买与激活指南](https://faciylike.github.io/cyprus-sim-guides)
